@@ -41,7 +41,7 @@ class CaioFreitas:
             "automatizando" : ["Rotinas contábeis", "Apuração fiscal", "Processamento de folha"],
             "estudando"     : ["React", "Node.js", "MongoDB"],
             "buscando"      : "Oportunidades em tech com foco em dados e automação",
-            "hobbies"       : ["Jogos 🎮", "Filmes 🎬", "Futebol ⚽"]
+            "hobbies"       : ["Jogos 🎮", "Filmes 🎬", "Futebol ⚽, "Basquete 🏀"]
         }
 ```
 
